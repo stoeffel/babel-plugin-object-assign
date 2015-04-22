@@ -9,8 +9,8 @@
     "type": "git",
     "url": "https://github.com/JedWatson/babel-plugin-object-assign.git"
   },
-  "dependencies": {
-    "babel-core": "^5.1.11"
+  "peerDependencies": {
+    "babel-core": ">=5.0.0"
   },
   "keywords": [
     "babel",
