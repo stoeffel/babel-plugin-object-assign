@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JedWatson/babel-plugin-object-assign.git"
+    "url": "https://github.com/babel-plugins/babel-plugin-object-assign.git"
   },
   "peerDependencies": {
     "babel-core": ">=5.2.0"
